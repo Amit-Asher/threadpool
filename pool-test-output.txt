@@ -1,0 +1,28 @@
+pool configuration: maxThreads=5, maxIdleTimeInMs=1000
+Starting 10 tasks of 5000ms each...
+20:07:14.817420300 - Task 1 started
+20:07:14.817151 - Task 0 started
+20:07:14.817151 - Task 2 started
+20:07:14.817151 - Task 4 started
+20:07:14.817420300 - Task 3 started
+20:07:19.832359800 - Task 1 finished
+20:07:19.832359800 - Task 2 finished
+20:07:19.832359800 - Task 4 finished
+20:07:19.832359800 - Task 0 finished
+20:07:19.833196400 - Task 7 started
+20:07:19.832359800 - Task 3 finished
+20:07:19.833196400 - Task 8 started
+20:07:19.833196400 - Task 6 started
+20:07:19.832359800 - Task 5 started
+20:07:19.833196400 - Task 9 started
+20:07:24.838775900 - Task 7 finished
+20:07:24.838775900 - Task 8 finished
+20:07:24.838775900 - Task 9 finished
+20:07:24.838775900 - Task 5 finished
+20:07:24.838775900 - Task 6 finished
+20:07:25.839600800 ReusableThread-3fbcf577-9eab-400f-ba7b-62683990c7e0 is timed out
+20:07:25.839600800 ReusableThread-645332c3-6556-4420-a277-e80df5450150 is timed out
+20:07:25.839600800 ReusableThread-e589fb5b-e17a-4db9-ac0a-6d7847605ccc is timed out
+20:07:25.839600800 ReusableThread-ff625a28-1203-44ab-b7df-46f145d62c5c is timed out
+20:07:25.839600800 ReusableThread-c91697a4-62ce-4829-8222-8f9c6734042a is timed out
+20:07:34.801438100 All threads are drowned
